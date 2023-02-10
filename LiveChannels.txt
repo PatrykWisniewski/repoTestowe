@@ -9,3 +9,7 @@ Dodaj.Kanal(Polsat_CHANNEL)
 Dodaj.Kanal(TTV_CHANNEL)
 	(WATCH;WatchFeature)
 	(PROGRAM;ProgramFeature)
+
+Dodaj.Kanal(NatGeo_CHANNEL)
+    (WATCH;WatchFeature)
+   	(PROGRAM;ProgramFeature)
