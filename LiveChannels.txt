@@ -5,3 +5,7 @@ Dodaj.Kanal(TVN_CHANNEL)
 Dodaj.Kanal(Polsat_CHANNEL)
 	(WATCH;WatchFeature)
 	(PROGRAM;ProgramFeature)
+
+Dodaj.Kanal(TTV_CHANNEL)
+	(WATCH;WatchFeature)
+	(PROGRAM;ProgramFeature)
